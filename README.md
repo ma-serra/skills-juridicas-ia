@@ -44,6 +44,7 @@ Como o Antigravity é o seu agente de IA integrado ao seu sistema, você pode us
 
 As skills estão divididas nas seguintes áreas:
 
+* Ferramentas
 * Administrativo
 * Aeronáutico
 * Agrário

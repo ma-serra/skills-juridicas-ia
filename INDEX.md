@@ -1,6 +1,12 @@
 # Skills Jurídicas com IA — Índice Completo
 
-**Total: 415 skills em 23 áreas**
+**Total: 417 skills em 23 áreas + Ferramentas**
+
+
+## Ferramentas
+
+- [Peças Jurídicas HTML — Template Personalizável](ferramentas/pecas-juridicas-html.md)
+- [Transcrição Jurídica de Conversa WhatsApp (Export ZIP)](ferramentas/transcricao-whatsapp-zip.md)
 
 
 ## Administrativo (14 skills)
